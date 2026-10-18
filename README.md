@@ -1,4 +1,4 @@
-# Metso Assistant
+# Sales Assistant
 
 A terminal app with two features:
 
