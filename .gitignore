@@ -1,0 +1,17 @@
+data/
+.local/
+.env
+.env.*
+!.env.example
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+*.egg-info/
+dist/
+build/
+IMPLEMENTATION_PLAN.md
+MVP_PLAN.md
+*.sqlite*
+*.log
